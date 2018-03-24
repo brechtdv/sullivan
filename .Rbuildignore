@@ -1,0 +1,15 @@
+^\.travis\.yml$
+.gitignore
+.gitattributes
+
+# RStudio files
+^\.Rproj\.user$
+^.*\.Rproj$
+
+# R history files
+.Rhistory$
+
+# Shiny files
+_cache$
+rsconnect$
+^.*\.dcf$

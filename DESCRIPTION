@@ -1,0 +1,13 @@
+Package: sullivan
+Type: Package
+Title: Health Expectancies using Sullivan's Method
+Version: 0.0.1
+Date: 2018-03-24
+Authors@R: person("Brecht", "Devleesschauwer",
+                  role = c("aut", "cre"),
+                  email = "brechtdv@gmail.com")
+Author: Brecht Devleesschauwer [aut, cre]
+Maintainer: Brecht Devleesschauwer <brechtdv@gmail.com>
+Description: Calculate health expectancies using Sullivan's method.
+Depends: R (>= 3.4.0)
+License: GPL (>= 2)
